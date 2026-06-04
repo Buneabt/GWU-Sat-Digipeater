@@ -14,5 +14,4 @@ The reseaoning for the biggest change of our system (frequency modulation) is de
 Modern micro controllers already use digital keys thus there is no need to convert from audio to digital like older digipeaters. 
 
 
-<img width="640" height="480" alt="GWU_SAT_FP Medium" src="https://github.com/user-attachments/assets/c813bb09-af1f-4824-8496-8db4a8ee395f" />
-
+<img width="2384" height="1782" alt="Screenshot 2026-06-04 at 9 47 45 AM" src="https://github.com/user-attachments/assets/39332ed0-0ac9-441d-9f24-7a678860eb13" />
